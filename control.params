@@ -12,22 +12,6 @@ checkpoint =				true
 checkpoint-modulo =                     1
 checkpoint-prefix = 			ec
 
-# 
-# The following parameter file will set up a very basic form
-# of evolution, single-threaded, no coevolution, no exchanging,
-# no cross-population breeding, using generational evolution,
-# simple fitness, popsize=1024, etc. 
-# You'll need to fill in some of the gaps.
-#
-
-# ec.Evolve
-# ==============================
-
-
-
-
-
-
 
 # run for 51 generations, quit prematurely if I find something ideal
 
